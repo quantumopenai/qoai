@@ -1,0 +1,3 @@
+pennylane
+strawberryfields
+pennylane-sf

@@ -1,0 +1,8 @@
+LICENCE.txt
+setup.py
+qoai_cirq/__init__.py
+qoai_cirq.egg-info/PKG-INFO
+qoai_cirq.egg-info/SOURCES.txt
+qoai_cirq.egg-info/dependency_links.txt
+qoai_cirq.egg-info/requires.txt
+qoai_cirq.egg-info/top_level.txt

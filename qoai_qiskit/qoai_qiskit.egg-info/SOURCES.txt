@@ -1,0 +1,8 @@
+LICENSE.txt
+setup.py
+qoai_qiskit/__init__.py
+qoai_qiskit.egg-info/PKG-INFO
+qoai_qiskit.egg-info/SOURCES.txt
+qoai_qiskit.egg-info/dependency_links.txt
+qoai_qiskit.egg-info/requires.txt
+qoai_qiskit.egg-info/top_level.txt
